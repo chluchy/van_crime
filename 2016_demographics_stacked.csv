@@ -1,0 +1,361 @@
+,neighbourhood,year,variable,value
+0,Arbutus-Ridge,2016,total_population,15295.0
+1,Downtown,2016,total_population,62030.0
+2,Dunbar-Southlands,2016,total_population,21425.0
+3,Fairview,2016,total_population,33620.0
+4,Grandview-Woodland,2016,total_population,29175.0
+5,Hastings-Sunrise,2016,total_population,34575.0
+6,Kensington-Cedar Cottage,2016,total_population,49325.0
+7,Kerrisdale,2016,total_population,13975.0
+8,Killarney,2016,total_population,29325.0
+9,Kitsilano,2016,total_population,43045.0
+10,Marpole,2016,total_population,24460.0
+11,Mount Pleasant,2016,total_population,32955.0
+12,Oakridge,2016,total_population,13030.0
+13,Renfrew-Collingwood,2016,total_population,51530.0
+14,Riley Park,2016,total_population,22555.0
+15,Shaughnessy,2016,total_population,8430.0
+16,South Cambie,2016,total_population,7970.0
+17,Strathcona,2016,total_population,12585.0
+18,Sunset,2016,total_population,36500.0
+19,Victoria-Fraserview,2016,total_population,31065.0
+20,West End,2016,total_population,47200.0
+21,West Point Grey,2016,total_population,13065.0
+22,Vancouver CSD ,2016,total_population,631485.0
+23,Vancouver CMA ,2016,total_population,2463430.0
+24,Arbutus-Ridge,2016,age_mean,44.6
+25,Downtown,2016,age_mean,40.6
+26,Dunbar-Southlands,2016,age_mean,41.1
+27,Fairview,2016,age_mean,43.4
+28,Grandview-Woodland,2016,age_mean,40.2
+29,Hastings-Sunrise,2016,age_mean,42.3
+30,Kensington-Cedar Cottage,2016,age_mean,40.0
+31,Kerrisdale,2016,age_mean,42.9
+32,Killarney,2016,age_mean,42.4
+33,Kitsilano,2016,age_mean,40.6
+34,Marpole,2016,age_mean,41.9
+35,Mount Pleasant,2016,age_mean,38.3
+36,Oakridge,2016,age_mean,44.3
+37,Renfrew-Collingwood,2016,age_mean,41.2
+38,Riley Park,2016,age_mean,40.2
+39,Shaughnessy,2016,age_mean,43.8
+40,South Cambie,2016,age_mean,42.1
+41,Strathcona,2016,age_mean,47.3
+42,Sunset,2016,age_mean,39.8
+43,Victoria-Fraserview,2016,age_mean,43.7
+44,West End,2016,age_mean,42.8
+45,West Point Grey,2016,age_mean,42.1
+46,Vancouver CSD ,2016,age_mean,41.6
+47,Vancouver CMA ,2016,age_mean,41.0
+48,Arbutus-Ridge,2016,age_median,46.2
+49,Downtown,2016,age_median,37.1
+50,Dunbar-Southlands,2016,age_median,44.1
+51,Fairview,2016,age_median,40.2
+52,Grandview-Woodland,2016,age_median,38.1
+53,Hastings-Sunrise,2016,age_median,42.1
+54,Kensington-Cedar Cottage,2016,age_median,38.8
+55,Kerrisdale,2016,age_median,45.6
+56,Killarney,2016,age_median,43.4
+57,Kitsilano,2016,age_median,37.7
+58,Marpole,2016,age_median,42.2
+59,Mount Pleasant,2016,age_median,35.5
+60,Oakridge,2016,age_median,45.1
+61,Renfrew-Collingwood,2016,age_median,40.0
+62,Riley Park,2016,age_median,39.3
+63,Shaughnessy,2016,age_median,45.7
+64,South Cambie,2016,age_median,40.2
+65,Strathcona,2016,age_median,48.3
+66,Sunset,2016,age_median,38.7
+67,Victoria-Fraserview,2016,age_median,44.3
+68,West End,2016,age_median,38.4
+69,West Point Grey,2016,age_median,43.9
+70,Vancouver CSD ,2016,age_median,39.9
+71,Vancouver CMA ,2016,age_median,40.9
+72,Arbutus-Ridge,2016,household_size,2.4
+73,Downtown,2016,household_size,1.7
+74,Dunbar-Southlands,2016,household_size,2.8
+75,Fairview,2016,household_size,1.7
+76,Grandview-Woodland,2016,household_size,1.9
+77,Hastings-Sunrise,2016,household_size,2.7
+78,Kensington-Cedar Cottage,2016,household_size,2.7
+79,Kerrisdale,2016,household_size,2.5
+80,Killarney,2016,household_size,2.7
+81,Kitsilano,2016,household_size,1.9
+82,Marpole,2016,household_size,2.2
+83,Mount Pleasant,2016,household_size,1.8
+84,Oakridge,2016,household_size,2.6
+85,Renfrew-Collingwood,2016,household_size,2.7
+86,Riley Park,2016,household_size,2.5
+87,Shaughnessy,2016,household_size,2.8
+88,South Cambie,2016,household_size,2.4
+89,Strathcona,2016,household_size,1.7
+90,Sunset,2016,household_size,3.1
+91,Victoria-Fraserview,2016,household_size,3.0
+92,West End,2016,household_size,1.5
+93,West Point Grey,2016,household_size,2.4
+94,Vancouver CSD ,2016,household_size,2.2
+95,Vancouver CMA ,2016,household_size,2.5
+96,Arbutus-Ridge,2016,income_mean,62675.0
+97,Downtown,2016,income_mean,63251.0
+98,Dunbar-Southlands,2016,income_mean,78117.0
+99,Fairview,2016,income_mean,61627.0
+100,Grandview-Woodland,2016,income_mean,42896.0
+101,Hastings-Sunrise,2016,income_mean,38258.0
+102,Kensington-Cedar Cottage,2016,income_mean,38411.0
+103,Kerrisdale,2016,income_mean,77248.0
+104,Killarney,2016,income_mean,39013.0
+105,Kitsilano,2016,income_mean,63092.0
+106,Marpole,2016,income_mean,39020.0
+107,Mount Pleasant,2016,income_mean,54260.0
+108,Oakridge,2016,income_mean,46515.0
+109,Renfrew-Collingwood,2016,income_mean,33360.0
+110,Riley Park,2016,income_mean,53060.0
+111,Shaughnessy,2016,income_mean,118668.0
+112,South Cambie,2016,income_mean,65459.0
+113,Strathcona,2016,income_mean,31534.0
+114,Sunset,2016,income_mean,34212.0
+115,Victoria-Fraserview,2016,income_mean,34298.0
+116,West End,2016,income_mean,47253.0
+117,West Point Grey,2016,income_mean,82042.0
+118,Vancouver CSD ,2016,income_mean,50317.0
+119,Vancouver CMA ,2016,income_mean,46821.0
+120,Arbutus-Ridge,2016,income_median,30929.0
+121,Downtown,2016,income_median,41858.0
+122,Dunbar-Southlands,2016,income_median,40463.0
+123,Fairview,2016,income_median,46940.0
+124,Grandview-Woodland,2016,income_median,32438.0
+125,Hastings-Sunrise,2016,income_median,27255.0
+126,Kensington-Cedar Cottage,2016,income_median,28356.0
+127,Kerrisdale,2016,income_median,35064.0
+128,Killarney,2016,income_median,29259.0
+129,Kitsilano,2016,income_median,44084.0
+130,Marpole,2016,income_median,26787.0
+131,Mount Pleasant,2016,income_median,42362.0
+132,Oakridge,2016,income_median,26695.0
+133,Renfrew-Collingwood,2016,income_median,25476.0
+134,Riley Park,2016,income_median,37327.0
+135,Shaughnessy,2016,income_median,44392.0
+136,South Cambie,2016,income_median,42094.0
+137,Strathcona,2016,income_median,17631.0
+138,Sunset,2016,income_median,25498.0
+139,Victoria-Fraserview,2016,income_median,24758.0
+140,West End,2016,income_median,36425.0
+141,West Point Grey,2016,income_median,40304.0
+142,Vancouver CSD ,2016,income_median,32896.0
+143,Vancouver CMA ,2016,income_median,32575.0
+144,Arbutus-Ridge,2016,over_100k_pct,14.12151067
+145,Downtown,2016,over_100k_pct,16.01715458
+146,Dunbar-Southlands,2016,over_100k_pct,21.06051528
+147,Fairview,2016,over_100k_pct,13.84252234
+148,Grandview-Woodland,2016,over_100k_pct,6.860625122999999
+149,Hastings-Sunrise,2016,over_100k_pct,5.295566502
+150,Kensington-Cedar Cottage,2016,over_100k_pct,5.551434223999999
+151,Kerrisdale,2016,over_100k_pct,17.92741583
+152,Killarney,2016,over_100k_pct,5.5955913520000005
+153,Kitsilano,2016,over_100k_pct,15.84
+154,Marpole,2016,over_100k_pct,6.111516922000001
+155,Mount Pleasant,2016,over_100k_pct,11.45382083
+156,Oakridge,2016,over_100k_pct,10.40994933
+157,Renfrew-Collingwood,2016,over_100k_pct,3.2636175589999996
+158,Riley Park,2016,over_100k_pct,12.25543478
+159,Shaughnessy,2016,over_100k_pct,23.46938776
+160,South Cambie,2016,over_100k_pct,15.60509554
+161,Strathcona,2016,over_100k_pct,4.997094712
+162,Sunset,2016,over_100k_pct,3.7298040560000003
+163,Victoria-Fraserview,2016,over_100k_pct,3.8166437139999996
+164,West End,2016,over_100k_pct,7.821737153
+165,West Point Grey,2016,over_100k_pct,19.724334600000002
+166,Vancouver CSD ,2016,over_100k_pct,9.889643462999999
+167,Vancouver CMA ,2016,over_100k_pct,8.60208805
+168,Arbutus-Ridge,2016,lowincome_pct,24.4
+169,Downtown,2016,lowincome_pct,23.8
+170,Dunbar-Southlands,2016,lowincome_pct,15.9
+171,Fairview,2016,lowincome_pct,14.7
+172,Grandview-Woodland,2016,lowincome_pct,20.5
+173,Hastings-Sunrise,2016,lowincome_pct,16.9
+174,Kensington-Cedar Cottage,2016,lowincome_pct,14.8
+175,Kerrisdale,2016,lowincome_pct,22.0
+176,Killarney,2016,lowincome_pct,17.0
+177,Kitsilano,2016,lowincome_pct,14.7
+178,Marpole,2016,lowincome_pct,24.7
+179,Mount Pleasant,2016,lowincome_pct,15.7
+180,Oakridge,2016,lowincome_pct,26.3
+181,Renfrew-Collingwood,2016,lowincome_pct,17.6
+182,Riley Park,2016,lowincome_pct,11.3
+183,Shaughnessy,2016,lowincome_pct,15.5
+184,South Cambie,2016,lowincome_pct,13.0
+185,Strathcona,2016,lowincome_pct,49.7
+186,Sunset,2016,lowincome_pct,16.0
+187,Victoria-Fraserview,2016,lowincome_pct,17.0
+188,West End,2016,lowincome_pct,23.3
+189,West Point Grey,2016,lowincome_pct,18.4
+190,Vancouver CSD ,2016,lowincome_pct,18.8
+191,Vancouver CMA ,2016,lowincome_pct,16.5
+192,Arbutus-Ridge,2016,unemployment,6.6
+193,Downtown,2016,unemployment,5.6
+194,Dunbar-Southlands,2016,unemployment,6.2
+195,Fairview,2016,unemployment,4.6
+196,Grandview-Woodland,2016,unemployment,5.3
+197,Hastings-Sunrise,2016,unemployment,5.9
+198,Kensington-Cedar Cottage,2016,unemployment,5.9
+199,Kerrisdale,2016,unemployment,7.5
+200,Killarney,2016,unemployment,5.4
+201,Kitsilano,2016,unemployment,5.2
+202,Marpole,2016,unemployment,7.2
+203,Mount Pleasant,2016,unemployment,4.7
+204,Oakridge,2016,unemployment,5.7
+205,Renfrew-Collingwood,2016,unemployment,5.8
+206,Riley Park,2016,unemployment,4.9
+207,Shaughnessy,2016,unemployment,4.7
+208,South Cambie,2016,unemployment,6.7
+209,Strathcona,2016,unemployment,8.5
+210,Sunset,2016,unemployment,5.2
+211,Victoria-Fraserview,2016,unemployment,6.5
+212,West End,2016,unemployment,5.3
+213,West Point Grey,2016,unemployment,6.4
+214,Vancouver CSD ,2016,unemployment,5.6
+215,Vancouver CMA ,2016,unemployment,5.8
+216,Arbutus-Ridge,2016,income_over30_pct,39.0
+217,Downtown,2016,income_over30_pct,36.6
+218,Dunbar-Southlands,2016,income_over30_pct,28.7
+219,Fairview,2016,income_over30_pct,23.5
+220,Grandview-Woodland,2016,income_over30_pct,22.3
+221,Hastings-Sunrise,2016,income_over30_pct,22.6
+222,Kensington-Cedar Cottage,2016,income_over30_pct,25.8
+223,Kerrisdale,2016,income_over30_pct,34.0
+224,Killarney,2016,income_over30_pct,23.4
+225,Kitsilano,2016,income_over30_pct,23.7
+226,Marpole,2016,income_over30_pct,30.9
+227,Mount Pleasant,2016,income_over30_pct,25.4
+228,Oakridge,2016,income_over30_pct,37.9
+229,Renfrew-Collingwood,2016,income_over30_pct,28.0
+230,Riley Park,2016,income_over30_pct,21.6
+231,Shaughnessy,2016,income_over30_pct,30.4
+232,South Cambie,2016,income_over30_pct,26.8
+233,Strathcona,2016,income_over30_pct,26.8
+234,Sunset,2016,income_over30_pct,29.2
+235,Victoria-Fraserview,2016,income_over30_pct,23.6
+236,West End,2016,income_over30_pct,27.3
+237,West Point Grey,2016,income_over30_pct,30.9
+238,Vancouver CSD ,2016,income_over30_pct,27.8
+239,Vancouver CMA ,2016,income_over30_pct,25.4
+240,Arbutus-Ridge,2016,shelter_median,1316.0
+241,Downtown,2016,shelter_median,1675.0
+242,Dunbar-Southlands,2016,shelter_median,1255.0
+243,Fairview,2016,shelter_median,1238.0
+244,Grandview-Woodland,2016,shelter_median,1323.0
+245,Hastings-Sunrise,2016,shelter_median,896.0
+246,Kensington-Cedar Cottage,2016,shelter_median,1292.0
+247,Kerrisdale,2016,shelter_median,1418.0
+248,Killarney,2016,shelter_median,1092.0
+249,Kitsilano,2016,shelter_median,1224.0
+250,Marpole,2016,shelter_median,1042.0
+251,Mount Pleasant,2016,shelter_median,1596.0
+252,Oakridge,2016,shelter_median,1207.0
+253,Renfrew-Collingwood,2016,shelter_median,1002.0
+254,Riley Park,2016,shelter_median,1227.0
+255,Shaughnessy,2016,shelter_median,1734.0
+256,South Cambie,2016,shelter_median,1237.0
+257,Strathcona,2016,shelter_median,1686.0
+258,Sunset,2016,shelter_median,1121.0
+259,Victoria-Fraserview,2016,shelter_median,833.0
+260,West End,2016,shelter_median,1119.0
+261,West Point Grey,2016,shelter_median,1319.0
+262,Vancouver CSD ,2016,shelter_median,1306.0
+263,Vancouver CMA ,2016,shelter_median,1376.0
+264,Arbutus-Ridge,2016,shelter_mean,2241.0
+265,Downtown,2016,shelter_mean,1880.0
+266,Dunbar-Southlands,2016,shelter_mean,2324.0
+267,Fairview,2016,shelter_mean,1497.0
+268,Grandview-Woodland,2016,shelter_mean,1555.0
+269,Hastings-Sunrise,2016,shelter_mean,1477.0
+270,Kensington-Cedar Cottage,2016,shelter_mean,1596.0
+271,Kerrisdale,2016,shelter_mean,2276.0
+272,Killarney,2016,shelter_mean,1424.0
+273,Kitsilano,2016,shelter_mean,1734.0
+274,Marpole,2016,shelter_mean,1624.0
+275,Mount Pleasant,2016,shelter_mean,1734.0
+276,Oakridge,2016,shelter_mean,2026.0
+277,Renfrew-Collingwood,2016,shelter_mean,1391.0
+278,Riley Park,2016,shelter_mean,1831.0
+279,Shaughnessy,2016,shelter_mean,2536.0
+280,South Cambie,2016,shelter_mean,1835.0
+281,Strathcona,2016,shelter_mean,1677.0
+282,Sunset,2016,shelter_mean,1669.0
+283,Victoria-Fraserview,2016,shelter_mean,1456.0
+284,West End,2016,shelter_mean,1369.0
+285,West Point Grey,2016,shelter_mean,2220.0
+286,Vancouver CSD ,2016,shelter_mean,1714.0
+287,Vancouver CMA ,2016,shelter_mean,1622.0
+288,Arbutus-Ridge,2016,dwelling_median,2505285.0
+289,Downtown,2016,dwelling_median,697128.0
+290,Dunbar-Southlands,2016,dwelling_median,3004627.0
+291,Fairview,2016,dwelling_median,648593.0
+292,Grandview-Woodland,2016,dwelling_median,880109.0
+293,Hastings-Sunrise,2016,dwelling_median,1249900.0
+294,Kensington-Cedar Cottage,2016,dwelling_median,1202530.0
+295,Kerrisdale,2016,dwelling_median,2914946.0
+296,Killarney,2016,dwelling_median,947355.0
+297,Kitsilano,2016,dwelling_median,948172.0
+298,Marpole,2016,dwelling_median,1505217.0
+299,Mount Pleasant,2016,dwelling_median,600575.0
+300,Oakridge,2016,dwelling_median,2490494.0
+301,Renfrew-Collingwood,2016,dwelling_median,1196033.0
+302,Riley Park,2016,dwelling_median,1599859.0
+303,Shaughnessy,2016,dwelling_median,3494588.0
+304,South Cambie,2016,dwelling_median,2000913.0
+305,Strathcona,2016,dwelling_median,799509.0
+306,Sunset,2016,dwelling_median,1500134.0
+307,Victoria-Fraserview,2016,dwelling_median,1499725.0
+308,West End,2016,dwelling_median,501546.0
+309,West Point Grey,2016,dwelling_median,2906094.0
+310,Vancouver CSD ,2016,dwelling_median,1102843.0
+311,Vancouver CMA ,2016,dwelling_median,800220.0
+312,Arbutus-Ridge,2016,dwelling_mean,2500033.0
+313,Downtown,2016,dwelling_mean,941493.0
+314,Dunbar-Southlands,2016,dwelling_mean,3026785.0
+315,Fairview,2016,dwelling_mean,761230.0
+316,Grandview-Woodland,2016,dwelling_mean,899002.0
+317,Hastings-Sunrise,2016,dwelling_mean,1266054.0
+318,Kensington-Cedar Cottage,2016,dwelling_mean,1214877.0
+319,Kerrisdale,2016,dwelling_mean,2879632.0
+320,Killarney,2016,dwelling_mean,1097209.0
+321,Kitsilano,2016,dwelling_mean,1327707.0
+322,Marpole,2016,dwelling_mean,1695892.0
+323,Mount Pleasant,2016,dwelling_mean,803459.0
+324,Oakridge,2016,dwelling_mean,2414767.0
+325,Renfrew-Collingwood,2016,dwelling_mean,1099509.0
+326,Riley Park,2016,dwelling_mean,1695195.0
+327,Shaughnessy,2016,dwelling_mean,3247312.0
+328,South Cambie,2016,dwelling_mean,1907007.0
+329,Strathcona,2016,dwelling_mean,845567.0
+330,Sunset,2016,dwelling_mean,1456880.0
+331,Victoria-Fraserview,2016,dwelling_mean,1441615.0
+332,West End,2016,dwelling_mean,670773.0
+333,West Point Grey,2016,dwelling_mean,2830724.0
+334,Vancouver CSD ,2016,dwelling_mean,1414191.0
+335,Vancouver CMA ,2016,dwelling_mean,1005920.0
+336,Arbutus-Ridge,2016,subsidized_pct,9.3
+337,Downtown,2016,subsidized_pct,19.0
+338,Dunbar-Southlands,2016,subsidized_pct,3.7
+339,Fairview,2016,subsidized_pct,9.6
+340,Grandview-Woodland,2016,subsidized_pct,22.3
+341,Hastings-Sunrise,2016,subsidized_pct,17.4
+342,Kensington-Cedar Cottage,2016,subsidized_pct,9.3
+343,Kerrisdale,2016,subsidized_pct,2.4
+344,Killarney,2016,subsidized_pct,29.3
+345,Kitsilano,2016,subsidized_pct,6.3
+346,Marpole,2016,subsidized_pct,11.1
+347,Mount Pleasant,2016,subsidized_pct,9.0
+348,Oakridge,2016,subsidized_pct,15.7
+349,Renfrew-Collingwood,2016,subsidized_pct,13.9
+350,Riley Park,2016,subsidized_pct,6.8
+351,Shaughnessy,2016,subsidized_pct,0.0
+352,South Cambie,2016,subsidized_pct,3.5
+353,Strathcona,2016,subsidized_pct,61.3
+354,Sunset,2016,subsidized_pct,8.4
+355,Victoria-Fraserview,2016,subsidized_pct,16.4
+356,West End,2016,subsidized_pct,8.0
+357,West Point Grey,2016,subsidized_pct,13.6
+358,Vancouver CSD ,2016,subsidized_pct,13.7
+359,Vancouver CMA ,2016,subsidized_pct,13.1
