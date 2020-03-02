@@ -2067,7 +2067,7 @@
             <column datatype='real' name='[unemployment]' role='measure' type='quantitative' />
           </datasource-dependencies>
           <filter class='categorical' column='[federated.0bvnfbw1cns6qb118ksj60kyw66n].[Action (NEIGHBOURHOOD)]'>
-            <groupfilter function='level-members' level='[NEIGHBOURHOOD]' user:ui-action-filter='[Action5]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[NEIGHBOURHOOD]' member='&quot;South Cambie&quot;' user:ui-action-filter='[Action5]' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <slices>
             <column>[federated.0bvnfbw1cns6qb118ksj60kyw66n].[none:HOUR:qk]</column>
@@ -2236,7 +2236,7 @@
             <column-instance column='[Number of Records]' derivation='Sum' name='[sum:Number of Records:qk]' pivot='key' type='quantitative' />
           </datasource-dependencies>
           <filter class='categorical' column='[federated.0bvnfbw1cns6qb118ksj60kyw66n].[Tooltip (NEIGHBOURHOOD)]'>
-            <groupfilter function='member' level='[NEIGHBOURHOOD]' member='&quot;Strathcona&quot;' user:ui-action-filter='[Action - Sheet 7]' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[NEIGHBOURHOOD]' member='&quot;South Cambie&quot;' user:ui-action-filter='[Action - Sheet 7]' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <shelf-sorts>
             <shelf-sort-v2 dimension-to-sort='[federated.0bvnfbw1cns6qb118ksj60kyw66n].[none:TYPE:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0bvnfbw1cns6qb118ksj60kyw66n].[sum:Number of Records:qk]' shelf='rows' />
@@ -3573,7 +3573,7 @@
           <default-map-tool-selection tool='1' />
         </viewpoint>
       </viewpoints>
-      <active id='40' />
+      <active id='3' />
       <simple-id uuid='{41D22955-EB63-4ED0-BA01-D435955A4859}' />
     </window>
     <window class='dashboard' name='Page 2'>
